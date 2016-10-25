@@ -1,0 +1,6 @@
+D:\Balabasquer\Ejercicio Interfaces\Ejercicio\bin\Debug\Ejercicio.exe.config
+D:\Balabasquer\Ejercicio Interfaces\Ejercicio\obj\Debug\Ejercicio.csprojResolveAssemblyReference.cache
+D:\Balabasquer\Ejercicio Interfaces\Ejercicio\bin\Debug\Ejercicio.exe
+D:\Balabasquer\Ejercicio Interfaces\Ejercicio\bin\Debug\Ejercicio.pdb
+D:\Balabasquer\Ejercicio Interfaces\Ejercicio\obj\Debug\Ejercicio.exe
+D:\Balabasquer\Ejercicio Interfaces\Ejercicio\obj\Debug\Ejercicio.pdb
